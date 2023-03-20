@@ -445,6 +445,8 @@ def prediction():
                         max_features = feat_right, criterion = crit_right)
     st.write("_________")
     X_train_processed.columns = X_train_processed.columns.astype(str)
+    X_test_processed.columns = X_test_processed.columns.astype(str)
+
     col01,col02 = st.columns(2)
     with col01:
         with st.spinner('Building Machine Learning Model...'):
