@@ -254,7 +254,7 @@ def dashboard():
                 st.write(style, unsafe_allow_html=True)
                 fig.update_layout(
                     template="plotly_dark",
-                    annotations=[dict(text='Rent Range<br>in Euro (€)', font_size=18, showarrow=False)]
+                    annotations=[dict(text='Rent Range<br>in Euro (€)', font_size=15, showarrow=False)]
                 )
             
                 fig.update_layout(
