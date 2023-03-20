@@ -196,7 +196,7 @@ def prediction():
                 grid_search_left = GridSearchCV(estimator = model_left, param_grid = grid_left, cv = 5)
                 grid_search_left.fit(X_test_processed, y_test)
                 n_left = grid_search_left.best_params_["n_neighbors"]
-                weight_left = grid_search_left.best_params_["weight"]
+                weight_left = grid_search_left.best_params_["weights"]
                 alg_left = "auto"
             regr_left = KNeighborsRegressor(n_neighbors = n_left, weights = weight_left, algorithm = alg_left)
         
@@ -370,7 +370,7 @@ def prediction():
                 grid_search_right = GridSearchCV(estimator = model_right, param_grid = grid_right, cv = 5)
                 grid_search_right.fit(X_test_processed, y_test)
                 n_right = grid_search_right.best_params_["n_neighbors"]
-                weight_right = grid_search_right.best_params_["weight"]
+                weight_right = grid_search_right.best_params_["weights"]
                 alg_right = "auto"
             regr_right = KNeighborsRegressor(n_neighbors = n_right, weights = weight_right, algorithm = alg_right)
         
