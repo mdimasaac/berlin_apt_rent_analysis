@@ -237,7 +237,7 @@ def dashboard():
                 fig = go.Figure(go.Pie(
                     labels = filtered.groupby(["rent_range"]).size().reset_index(name="counts")["rent_range"],
                     values = filtered.groupby(["rent_range"]).size().reset_index(name="counts")["counts"],hovertemplate = "%{label}<br>%{percent} <extra></extra>",
-                    hole=.8,marker_colors=plotly.colors.sequential.Viridis,
+                    hole=.7,marker_colors=plotly.colors.sequential.Viridis,
                     marker_line_color='white',
                     marker_line_width=1.25,
                     pull=[0.025,0.025,0.025,0.025,0.2,0.025],
@@ -254,7 +254,7 @@ def dashboard():
                 st.write(style, unsafe_allow_html=True)
                 fig.update_layout(
                     template="plotly_dark",
-                    annotations=[dict(text='Rent Range<br>in Euro (€)', font_size=15, showarrow=False)]
+                    annotations=[dict(text='Rent Range<br>in Euro (€)', font_size=12, showarrow=False)]
                 )
             
                 fig.update_layout(
