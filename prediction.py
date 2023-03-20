@@ -183,7 +183,7 @@ def prediction():
         elif ml_left == "K-Neighbors":
             model_left = KNeighborsRegressor()
             st.subheader("Play Around with the Parameters!")
-            n_left = st.slider("n_neighbors:", 3,9,3,1, key = n_left)
+            n_left = st.slider("n_neighbors:", 3,9,3,1, key = "n_left")
             weight_left = st.radio("weight:", ("uniform","distance"), key = "weight_left")
             alg_left = "auto"
             st.subheader("Or Optimize Parameter")
