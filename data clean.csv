@@ -1,0 +1,501 @@
+link,adresse,rent,rooms,size,area,rent_range
+https://www.immowelt.de/expose/29btl59,Letteallee 64,481.35,2.0,61.24,Reinickendorf,below 600
+https://www.immowelt.de/expose/29rwk59,Oberschöneweide,724.0,1.0,16.9,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/27xsw57,Mühlenstraße 20,1900.0,2.0,55.0,Friedrichshain,1500 to 2000
+https://www.immowelt.de/expose/28u6q5p,Großbeerenstraße 13,3290.0,3.0,115.0,Kreuzberg,over 3000
+https://www.immowelt.de/expose/27jyd5w,Stralauer Allee 5,2308.0,2.0,63.0,Friedrichshain,2000 to 3000
+https://www.immowelt.de/expose/25m7r5g,Geisbergstraße 31,1500.0,2.0,38.0,Schöneberg,1500 to 2000
+https://www.immowelt.de/expose/27wkb5r,Schlierseestraße 2,3000.0,3.0,122.8,Grünau,over 3000
+https://www.immowelt.de/expose/247n45x,Lion-Feuchtwanger Straße 61,1249.0,3.0,53.55,Kaulsdorf,1000 to 1500
+https://www.immowelt.de/expose/29whb59,Angerburger Allee 21,746.87,2.0,78.37,Westend,600 to 1000
+https://www.immowelt.de/expose/28txw5g,Jablonskistr 5,2600.0,3.0,110.0,Prenzlauer Berg,2000 to 3000
+https://www.immowelt.de/expose/29zxk59,Oberschöneweide,697.0,1.0,17.7,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/2983m58,Galenusstr. 17,461.2,1.5,54.84,Pankow,below 600
+https://www.immowelt.de/expose/29dwk59,Oberschöneweide,586.0,1.0,11.0,Oberschöneweide,below 600
+https://www.immowelt.de/expose/2967958,Müggelseedamm 162 162b,503.73,1.0,39.58,Friedrichshagen,below 600
+https://www.immowelt.de/expose/29ru858,Wilhelminenhofstr. 37,318.65,1.0,34.0,Oberschöneweide,below 600
+https://www.immowelt.de/expose/29c8z57,Gabriele-Tergit-Promenade 21,1650.0,3.0,90.0,Tiergarten,1500 to 2000
+https://www.immowelt.de/expose/29kp258,Rosenfelder Ring 150,1267.67,3.0,89.09,Friedrichsfelde,1000 to 1500
+https://www.immowelt.de/expose/29vvz56,Lichtenrade,1410.0,4.0,115.0,Lichtenrade,1000 to 1500
+https://www.immowelt.de/expose/2895d5t,Nalepastraße 222,1000.0,2.0,38.82,Oberschöneweide,1000 to 1500
+https://www.immowelt.de/expose/28dsa5t,Nalepastraße 222,750.0,1.0,23.66,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/27b7f5q,Nalepastraße 222,650.0,1.0,21.65,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/29lqk57,Rosenfelder Ring 154,2140.5,4.0,165.76,Friedrichsfelde,2000 to 3000
+https://www.immowelt.de/expose/29kpk57,Am Postbahnhof 23,932.22,2.0,55.82,Friedrichshain,600 to 1000
+https://www.immowelt.de/expose/2ksv247,Philipp-Franck-Weg 19,1205.0,3.0,86.0,Wannsee,1000 to 1500
+https://www.immowelt.de/expose/29qhw54,Prühßstraße 13 + 15,894.18,1.0,45.93,Mariendorf,600 to 1000
+https://www.immowelt.de/expose/29xz256,Teichmummelring 67,857.45,2.0,63.22,Grünau,600 to 1000
+https://www.immowelt.de/expose/288vu5x,Wiesbadener Straße 47,2200.0,3.0,75.0,Wilmersdorf,2000 to 3000
+https://www.immowelt.de/expose/28sgx5e,Ehrenbergstr. 5,2800.0,3.0,93.0,Friedrichshain,2000 to 3000
+https://www.immowelt.de/expose/29d8753,Biesentaler Str. 10,900.0,2.0,60.3,Gesundbrunnen,600 to 1000
+https://www.immowelt.de/expose/28qpr5w,Niebuhrstr. 78,3100.0,4.0,170.0,Charlottenburg,over 3000
+https://www.immowelt.de/expose/28p465r,Kaiser Friedrichstrasse 77,1690.0,2.0,56.0,Charlottenburg,1500 to 2000
+https://www.immowelt.de/expose/28kxw5y,An der Dahme 2,1194.14,3.0,74.17,Grünau,1000 to 1500
+https://www.immowelt.de/expose/28axw5y,Gaffelsteig 2,1659.36,4.0,103.71,Grünau,1500 to 2000
+https://www.immowelt.de/expose/289zv5x,Dahlem,2200.0,3.0,111.0,Dahlem,2000 to 3000
+https://www.immowelt.de/expose/28kza5x,Zaucher Weg 10,2500.0,4.0,138.0,Karolinenhof,2000 to 3000
+https://www.immowelt.de/expose/28era5x,Zaucher Weg 10,1500.0,3.0,73.0,Karolinenhof,1500 to 2000
+https://www.immowelt.de/expose/284qa5x,Zaucher Weg 10,1300.0,2.0,62.01,Karolinenhof,1000 to 1500
+https://www.immowelt.de/expose/297vd52,Gaffelsteig 2,823.03,2.0,49.58,Grünau,600 to 1000
+https://www.immowelt.de/expose/293vd52,Gaffelsteig 2,687.25,1.0,40.19,Grünau,600 to 1000
+https://www.immowelt.de/expose/286du5w,Herrfurthstraße 29,1190.0,2.0,65.0,Neukölln,1000 to 1500
+https://www.immowelt.de/expose/28uf75l,Glienicker Str. 31,1800.0,3.5,155.0,Wannsee,1500 to 2000
+https://www.immowelt.de/expose/28phk5w,Prenzlauer Berg,3198.0,2.0,123.0,Prenzlauer Berg,over 3000
+https://www.immowelt.de/expose/283ju5u,Bismarckstraße 80,3860.7,7.0,265.34,Charlottenburg,over 3000
+https://www.immowelt.de/expose/28hxe5s,Ravenéstraße 3,1590.0,3.0,87.0,Gesundbrunnen,1500 to 2000
+https://www.immowelt.de/expose/27ze25w,Erich-Weinert-Straße 16,2300.0,2.0,75.0,Prenzlauer Berg,2000 to 3000
+https://www.immowelt.de/expose/27drv5j,Hauptstraße 151,2850.0,4.0,92.0,Schöneberg,2000 to 3000
+https://www.immowelt.de/expose/28lh65w,Düsseldorfer Str. 49,2530.0,3.0,97.0,Wilmersdorf,2000 to 3000
+https://www.immowelt.de/expose/2854r5n,Beusselstraße 65,1750.0,2.0,74.0,Moabit,1500 to 2000
+https://www.immowelt.de/expose/29csy56,Immanuelkirchstraße 23,1900.0,2.0,55.0,Prenzlauer Berg,1500 to 2000
+https://www.immowelt.de/expose/288vw5z,Michaelkirchstraße 16,2280.0,3.0,95.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/288h452,Erich-Weinert-Straße 16,1550.0,1.0,45.0,Prenzlauer Berg,1500 to 2000
+https://www.immowelt.de/expose/27wme5x,Cora-Berliner-Str. 1,3500.0,2.0,68.63,Mitte,over 3000
+https://www.immowelt.de/expose/27z2d5x,Cora-Berliner-Str. 1,2650.0,2.0,62.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/27ylv57,Krumme Str. 54,2200.0,3.0,78.0,Charlottenburg,2000 to 3000
+https://www.immowelt.de/expose/25s7q5p,Köpenicker Straße 194,1750.0,2.0,50.0,Kreuzberg,1500 to 2000
+https://www.immowelt.de/expose/279t458,Markgrafendamm 36,2010.0,3.0,77.0,Friedrichshain,2000 to 3000
+https://www.immowelt.de/expose/24n5q5t,Am Köllnischen Park 17,1850.0,2.0,55.0,Mitte,1500 to 2000
+https://www.immowelt.de/expose/29gxr58,Bahnhofstraße 58,597.5,2.0,52.0,Karow,below 600
+https://www.immowelt.de/expose/29cns55,Segelfliegerdamm 28,1099.9,2.0,50.0,Johannisthal,1000 to 1500
+https://www.immowelt.de/expose/2929955,Konrad-Wolf-Straße 101,2250.0,4.0,112.5,Alt-Hohenschönhausen,2000 to 3000
+https://www.immowelt.de/expose/293v855,Konrad-Wolf-Straße 101,1568.0,3.0,74.66,Alt-Hohenschönhausen,1500 to 2000
+https://www.immowelt.de/expose/29gg654,Rennbahnstrasse 26,1200.0,3.0,78.0,Weißensee,1000 to 1500
+https://www.immowelt.de/expose/29xtm52,Breitkopfstraße 77,679.26,2.0,59.9,Reinickendorf,600 to 1000
+https://www.immowelt.de/expose/299rl52,Konrad-Wolf-Straße 101,1838.0,3.0,87.05,Alt-Hohenschönhausen,1500 to 2000
+https://www.immowelt.de/expose/29wcl52,Konrad-Wolf-Straße 101,1568.0,3.0,74.66,Alt-Hohenschönhausen,1500 to 2000
+https://www.immowelt.de/expose/2xhx84y,Friedenau,2685.0,4.0,158.0,Friedenau,2000 to 3000
+https://www.immowelt.de/expose/2wkeh4b,Mahlower Str. 45,1068.0,3.0,84.0,Köpenick,1000 to 1500
+https://www.immowelt.de/expose/29lhq59,Schivelbeiner Str. 31,2624.0,2.0,104.96,Prenzlauer Berg,2000 to 3000
+https://www.immowelt.de/expose/29wvn59,Prenzlauer Berg,1200.0,3.0,76.0,Prenzlauer Berg,1000 to 1500
+https://www.immowelt.de/expose/29vmn59,Nantesstraße 75,1199.0,3.0,81.49,Französisch Buchholz,1000 to 1500
+https://www.immowelt.de/expose/296zl59,Südekumzeile 27a,699.6,2.5,69.89,Spandau,600 to 1000
+https://www.immowelt.de/expose/29lyl59,Südekumzeile 31a,457.2,1.0,39.38,Spandau,below 600
+https://www.immowelt.de/expose/29zae53,Lindenstraße 28A,50.0,1.0,33.0,Köpenick,below 600
+https://www.immowelt.de/expose/2tt4e4t,Reinbeckstraße 4-8,330.0,1.0,15.0,Oberschöneweide,below 600
+https://www.immowelt.de/expose/29t9k59,Mertensstr 13E,1250.0,3.0,72.0,Spandau,1000 to 1500
+https://www.immowelt.de/expose/299x859,Newtonstraße 3,1650.0,3.5,103.39,Adlershof,1500 to 2000
+https://www.immowelt.de/expose/29dyg59,Charlottenburg,1400.0,2.0,62.0,Charlottenburg,1000 to 1500
+https://www.immowelt.de/expose/299yg59,Baumschulenstr. 93 a/b Au,908.54,2.0,54.08,Baumschulenweg,600 to 1000
+https://www.immowelt.de/expose/29yxg59,Baumschulenstr. 93 a/b Au,1132.56,3.0,68.64,Baumschulenweg,1000 to 1500
+https://www.immowelt.de/expose/28qun5b,Aubertstrasse 17,725.0,2.0,57.68,Französisch Buchholz,600 to 1000
+https://www.immowelt.de/expose/29pse59,Charlottenburg,450.0,1.0,36.17,Charlottenburg,below 600
+https://www.immowelt.de/expose/29nza52,Prenzlauer Berg,2300.0,2.5,106.0,Prenzlauer Berg,2000 to 3000
+https://www.immowelt.de/expose/29huz58,Innsbrucker Str. 21,482.0,2.0,39.0,Schöneberg,below 600
+https://www.immowelt.de/expose/29bxm59,Oberschöneweide,596.0,1.0,18.5,Oberschöneweide,below 600
+https://www.immowelt.de/expose/29xym59,Oberschöneweide,614.0,1.0,18.9,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/29vtm59,Oberschöneweide,619.0,1.0,17.7,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/295hw58,Steglitz,895.0,2.0,55.0,Steglitz,600 to 1000
+https://www.immowelt.de/expose/29auv58,Lichterfelde,430.0,1.0,16.0,Lichterfelde,below 600
+https://www.immowelt.de/expose/29rxt58,Pankow,1335.95,2.0,68.51,Pankow,1000 to 1500
+https://www.immowelt.de/expose/299xt58,Pankow,1910.16,3.0,89.26,Pankow,1500 to 2000
+https://www.immowelt.de/expose/29u6g59,Pankow,3641.43,4.0,149.3,Pankow,over 3000
+https://www.immowelt.de/expose/29c8s58,Burgwallstraße 87,1350.0,3.0,72.0,Blankenburg,1000 to 1500
+https://www.immowelt.de/expose/29qwr58,Lankwitz,1500.0,2.0,63.0,Lankwitz,1500 to 2000
+https://www.immowelt.de/expose/29ctr58,Mitte,2700.0,2.0,69.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/29m5r58,Britz,1350.0,2.0,55.0,Britz,1000 to 1500
+https://www.immowelt.de/expose/29syp58,Heinrich Roller Str. 16B,2490.0,4.0,150.0,Prenzlauer Berg,2000 to 3000
+https://www.immowelt.de/expose/29dep58,Wartenberger Straße 40A,835.0,2.0,63.47,Alt-Hohenschönhausen,600 to 1000
+https://www.immowelt.de/expose/29t7p58,Kurfürstenstr. 90,330.69,1.0,49.69,Mariendorf,below 600
+https://www.immowelt.de/expose/29v2n58,Graf Haeseler Str. 29,900.0,3.0,68.0,Reinickendorf,600 to 1000
+https://www.immowelt.de/expose/29y6n58,Steglitz,1600.0,2.0,57.0,Steglitz,1500 to 2000
+https://www.immowelt.de/expose/295cm58,Spandau,1260.0,2.0,64.61,Spandau,1000 to 1500
+https://www.immowelt.de/expose/296ad52,Choriner Straße 57,1750.0,2.5,60.0,Prenzlauer Berg,1500 to 2000
+https://www.immowelt.de/expose/28fus5z,Rudower Chaussee 34,890.0,1.0,24.0,Adlershof,600 to 1000
+https://www.immowelt.de/expose/29rym59,Oberschöneweide,602.0,1.0,25.8,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/29mym59,Mitte,1796.0,2.0,57.73,Mitte,1500 to 2000
+https://www.immowelt.de/expose/29hym59,Oberschöneweide,619.0,1.0,17.7,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/29dym59,Friedrichsfelde,898.0,1.0,29.7,Friedrichsfelde,600 to 1000
+https://www.immowelt.de/expose/298ym59,Oberschöneweide,603.0,1.0,17.0,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/292ym59,Moabit,863.0,1.0,22.35,Moabit,600 to 1000
+https://www.immowelt.de/expose/29txm59,Moabit,1747.0,2.0,46.75,Moabit,1500 to 2000
+https://www.immowelt.de/expose/29lxm59,Oberschöneweide,620.0,1.0,20.4,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/29hxm59,Oberschöneweide,600.0,1.0,17.6,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/298xm59,Oberschöneweide,721.0,1.0,17.6,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/29wwm59,Oberschöneweide,598.0,1.0,13.3,Oberschöneweide,below 600
+https://www.immowelt.de/expose/29twm59,Oberschöneweide,724.0,1.0,16.9,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/29mwm59,Oberschöneweide,596.0,1.0,19.2,Oberschöneweide,below 600
+https://www.immowelt.de/expose/29lwm59,Oberschöneweide,780.0,1.0,25.75,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/29gvm59,Oberschöneweide,586.0,1.0,11.0,Oberschöneweide,below 600
+https://www.immowelt.de/expose/29ltm59,Mitte,1699.0,2.0,53.5,Mitte,1500 to 2000
+https://www.immowelt.de/expose/29gv858,Martin-Riesenburger-Straße 36,940.0,3.0,79.87,Hellersdorf,600 to 1000
+https://www.immowelt.de/expose/2945858,Charlottenburg,2250.0,3.0,80.0,Charlottenburg,2000 to 3000
+https://www.immowelt.de/expose/29cq558,Reichenberger Str. 33A,550.52,3.0,91.93,Kreuzberg,below 600
+https://www.immowelt.de/expose/29vv458,Lichterfelde,1000.0,2.0,77.0,Lichterfelde,1000 to 1500
+https://www.immowelt.de/expose/29bv258,Albrecht-Achilles-Straße 65 Berlin-Wilmerdorf (Wilmersdorf),2075.0,3.0,106.0,Wilmersdorf,2000 to 3000
+https://www.immowelt.de/expose/29uzz57,Tiriotstr. 43,470.0,2.0,52.46,Französisch Buchholz,below 600
+https://www.immowelt.de/expose/2zl6346,Wühlischstr. 56,1105.0,3.0,86.85,Friedrichshain,1000 to 1500
+https://www.immowelt.de/expose/29zhy57,Arnouxstraße 12,463.0,1.5,45.43,Französisch Buchholz,below 600
+https://www.immowelt.de/expose/29u6y57,Kalvinistenweg 37,490.0,1.5,48.04,Französisch Buchholz,below 600
+https://www.immowelt.de/expose/2939x57,Bottroper Weg 13,1099.0,3.0,78.41,Tegel,1000 to 1500
+https://www.immowelt.de/expose/29wpw57,Tiergarten,3350.0,3.0,110.97,Tiergarten,over 3000
+https://www.immowelt.de/expose/29uev57,Köpenick,1440.0,3.0,72.0,Köpenick,1000 to 1500
+https://www.immowelt.de/expose/292ru57,Lichtenberg,1900.0,3.0,106.0,Lichtenberg,1500 to 2000
+https://www.immowelt.de/expose/29nz257,Maximilianstr 16,1593.0,2.5,99.0,Lichtenberg,1500 to 2000
+https://www.immowelt.de/expose/28esc5y,Wilmersdorf,1600.0,2.0,70.0,Wilmersdorf,1500 to 2000
+https://www.immowelt.de/expose/29mqr57,Grünau,1000.0,2.0,70.0,Grünau,1000 to 1500
+https://www.immowelt.de/expose/29rln57,Leibnizstraße 62,2950.0,5.0,194.0,Charlottenburg,2000 to 3000
+https://www.immowelt.de/expose/29msn57,Biesdorf,1040.0,2.0,65.4,Biesdorf,1000 to 1500
+https://www.immowelt.de/expose/29zem57,Mitte,2400.0,2.0,76.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/2955k57,Gustav-Tempel-Str. 8,2600.0,3.0,113.0,Alt-Hohenschönhausen,2000 to 3000
+https://www.immowelt.de/expose/29ete57,Karl-Marx-Str. 220,850.0,2.0,50.0,Neukölln,600 to 1000
+https://www.immowelt.de/expose/29qm857,Tiergarten,2300.0,2.0,64.0,Tiergarten,2000 to 3000
+https://www.immowelt.de/expose/29e8b54,Flottwellstraße 19,1010.96,1.5,61.27,Tiergarten,1000 to 1500
+https://www.immowelt.de/expose/29pw257,Bernkastler Strasse 23,850.0,1.0,40.5,Lankwitz,600 to 1000
+https://www.immowelt.de/expose/297jy56,Bossestraße 7,1699.0,2.0,65.33,Friedrichshain,1500 to 2000
+https://www.immowelt.de/expose/294t257,Wilmersdorf,2649.0,3.0,91.2,Wilmersdorf,2000 to 3000
+https://www.immowelt.de/expose/2949z56,Pankower Allee 93,1458.0,2.0,81.0,Reinickendorf,1000 to 1500
+https://www.immowelt.de/expose/29ywy56,Quedlinburger Straße 36,699.0,3.0,69.8,Hellersdorf,600 to 1000
+https://www.immowelt.de/expose/298vy56,Quedlinburger Straße 16,769.0,3.0,73.05,Hellersdorf,600 to 1000
+https://www.immowelt.de/expose/29wsy56,Janusz-Korczak-Straße 21,769.0,3.0,75.56,Hellersdorf,600 to 1000
+https://www.immowelt.de/expose/29wqy56,Kastanienallee 72,489.0,1.0,34.38,Hellersdorf,below 600
+https://www.immowelt.de/expose/298ky56,Havelländer Ring 66,469.0,1.0,40.95,Hellersdorf,below 600
+https://www.immowelt.de/expose/29wfy56,Havelländer Ring 65,659.0,3.0,53.92,Hellersdorf,600 to 1000
+https://www.immowelt.de/expose/29uay56,Havelländer Ring 61,689.0,3.0,53.92,Hellersdorf,600 to 1000
+https://www.immowelt.de/expose/29ray56,Schonensche Straße 43,1634.03,3.0,92.0,Pankow,1500 to 2000
+https://www.immowelt.de/expose/29r5y56,Havelländer Ring 23,459.0,1.0,33.54,Hellersdorf,below 600
+https://www.immowelt.de/expose/29v2y56,Kastanienallee 124,479.0,1.0,35.69,Hellersdorf,below 600
+https://www.immowelt.de/expose/299ux56,Stendaler Straße 93,669.0,3.0,54.5,Hellersdorf,600 to 1000
+https://www.immowelt.de/expose/29tuv56,Rahnsdorf,1380.0,3.0,76.0,Rahnsdorf,1000 to 1500
+https://www.immowelt.de/expose/296bv56,Rahnsdorf,999.0,2.0,56.0,Rahnsdorf,600 to 1000
+https://www.immowelt.de/expose/297qu56,Friedrichshain,415.0,2.0,54.0,Friedrichshain,below 600
+https://www.immowelt.de/expose/29l7r56,Mühlenstraße 35,1400.0,3.0,88.0,Pankow,1000 to 1500
+https://www.immowelt.de/expose/29qun56,Simon-Bolivar-Str. 6,1391.0,3.0,83.05,Alt-Hohenschönhausen,1000 to 1500
+https://www.immowelt.de/expose/29nrn56,Münchehagenstraße 42,649.0,2.0,47.94,Karow,600 to 1000
+https://www.immowelt.de/expose/29tdn56,Nantesstraße 70,1349.0,4.0,103.33,Französisch Buchholz,1000 to 1500
+https://www.immowelt.de/expose/2973n56,Guyotstraße 25,1149.0,3.0,78.44,Französisch Buchholz,1000 to 1500
+https://www.immowelt.de/expose/299jm56,Weissenhöher Straße 50,1325.0,3.0,75.0,Biesdorf,1000 to 1500
+https://www.immowelt.de/expose/28d8l5y,Wilmersdorf,1390.0,2.0,56.0,Wilmersdorf,1000 to 1500
+https://www.immowelt.de/expose/29txc56,Simon-Bolivar-Straße 30A,1099.0,3.0,82.8,Alt-Hohenschönhausen,1000 to 1500
+https://www.immowelt.de/expose/29awc56,Simon-Bolivar-Straße 28,909.0,2.0,67.37,Alt-Hohenschönhausen,600 to 1000
+https://www.immowelt.de/expose/299wc56,Rhinstraße 9,519.0,1.0,36.94,Friedrichsfelde,below 600
+https://www.immowelt.de/expose/297wc56,Simon-Bolivar-Straße 23,899.0,2.0,65.5,Alt-Hohenschönhausen,600 to 1000
+https://www.immowelt.de/expose/296wc56,Simon-Bolivar-Straße 18A,899.0,2.0,64.0,Alt-Hohenschönhausen,600 to 1000
+https://www.immowelt.de/expose/29g2956,Zähringer Str. 5,1446.0,4.5,107.0,Wilmersdorf,1000 to 1500
+https://www.immowelt.de/expose/29d2956,Helmholzstraße 26,930.0,2.0,72.0,Westend,600 to 1000
+https://www.immowelt.de/expose/29b2956,Ritterstr. 95,505.0,2.0,57.0,Kreuzberg,below 600
+https://www.immowelt.de/expose/29dsz55,Cornelius-Fredericks-Str. 9,980.0,1.5,49.0,Wedding,600 to 1000
+https://www.immowelt.de/expose/2967856,Kladow,2150.0,4.0,107.73,Kladow,2000 to 3000
+https://www.immowelt.de/expose/29ukt53,Prühßstraße 13 + 15,1353.71,2.0,71.79,Mariendorf,1000 to 1500
+https://www.immowelt.de/expose/2984756,Tiergarten,2300.0,2.0,64.0,Tiergarten,2000 to 3000
+https://www.immowelt.de/expose/28h755k,Ilmenauer Straße 4,2000.0,4.0,115.0,Schmargendorf,2000 to 3000
+https://www.immowelt.de/expose/29jn456,Mitte,1957.0,2.0,71.09,Mitte,1500 to 2000
+https://www.immowelt.de/expose/29zm456,Mitte,2061.61,2.0,71.09,Mitte,2000 to 3000
+https://www.immowelt.de/expose/29pf456,Grünhofer Weg 34,1300.0,3.0,91.57,Spandau,1000 to 1500
+https://www.immowelt.de/expose/29mz356,Friedrichshain,1400.0,2.0,82.0,Friedrichshain,1000 to 1500
+https://www.immowelt.de/expose/29r6456,Lützowstrasse 111,1299.0,1.0,48.28,Tiergarten,1000 to 1500
+https://www.immowelt.de/expose/29by356,Grillparzerstraße 4a,1405.6,3.0,107.38,Steglitz,1000 to 1500
+https://www.immowelt.de/expose/289m65y,Mariendorf,1300.0,2.0,80.0,Mariendorf,1000 to 1500
+https://www.immowelt.de/expose/28g9g5y,Tegel,1000.0,1.5,35.0,Tegel,1000 to 1500
+https://www.immowelt.de/expose/29mb256,Fritz-Reuter-Straße 1,865.67,2.0,66.59,Schöneberg,600 to 1000
+https://www.immowelt.de/expose/29yvu55,Kreuzberg,3800.0,4.0,214.0,Kreuzberg,over 3000
+https://www.immowelt.de/expose/29ect55,Meller Bogen 14,861.0,1.0,30.6,Reinickendorf,600 to 1000
+https://www.immowelt.de/expose/294kp55,Schmargendorf,3900.0,6.0,206.0,Schmargendorf,over 3000
+https://www.immowelt.de/expose/298xl55,Regattastraße 80a,588.0,1.5,43.0,Grünau,below 600
+https://www.immowelt.de/expose/2964k55,Lichtenberg,990.0,4.0,97.0,Lichtenberg,600 to 1000
+https://www.immowelt.de/expose/29vub55,Neue Bahnhofstraße 26b,1563.7,2.0,82.3,Friedrichshain,1500 to 2000
+https://www.immowelt.de/expose/2925a55,Wilhelmsmühlenweg 198,1075.0,2.0,70.5,Mahlsdorf,1000 to 1500
+https://www.immowelt.de/expose/294d255,Genter Str. 16,1485.0,2.0,55.0,Wedding,1000 to 1500
+https://www.immowelt.de/expose/299wm59,Oberschöneweide,724.0,1.0,16.8,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/29dwm59,Oberschöneweide,602.0,1.0,17.3,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/29qeu54,Treskowstraße 21,890.0,1.0,44.37,Heinersdorf,600 to 1000
+https://www.immowelt.de/expose/29heu54,Treskowstraße 24,1190.0,2.0,59.21,Niederschönhausen,1000 to 1500
+https://www.immowelt.de/expose/294pp55,Treskowstr. 21,1300.0,1.0,34.0,Heinersdorf,1000 to 1500
+https://www.immowelt.de/expose/29wdk54,Alt-Treptow,735.0,1.5,46.0,Alt-Treptow,600 to 1000
+https://www.immowelt.de/expose/29z8k54,Mariendorf,450.0,2.0,55.0,Mariendorf,below 600
+https://www.immowelt.de/expose/2954k54,Wedding,690.0,2.0,68.0,Wedding,600 to 1000
+https://www.immowelt.de/expose/295cj54,Schöneberg,2000.0,2.5,66.0,Schöneberg,2000 to 3000
+https://www.immowelt.de/expose/29csh54,Wittenau,2000.0,3.0,119.0,Wittenau,2000 to 3000
+https://www.immowelt.de/expose/299s554,Friedenau,730.0,3.0,56.0,Friedenau,600 to 1000
+https://www.immowelt.de/expose/29zvm59,Friedrichsfelde,1545.0,3.0,88.92,Friedrichsfelde,1500 to 2000
+https://www.immowelt.de/expose/29tvm59,Oberschöneweide,622.0,1.0,21.5,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/28feq5f,Biesdorf,1600.0,2.5,102.0,Biesdorf,1500 to 2000
+https://www.immowelt.de/expose/29sz354,Lehrter Straße 24b,1245.0,1.0,29.0,Moabit,1000 to 1500
+https://www.immowelt.de/expose/294z354,Meraner Str. 12,2938.54,6.0,198.0,Schöneberg,2000 to 3000
+https://www.immowelt.de/expose/28z8f5q,Biesdorf,2290.0,4.0,143.43,Biesdorf,2000 to 3000
+https://www.immowelt.de/expose/29am354,Rykestr. 50,1566.52,2.0,49.24,Prenzlauer Berg,1500 to 2000
+https://www.immowelt.de/expose/29qpx53,Britz,700.0,2.0,60.0,Britz,600 to 1000
+https://www.immowelt.de/expose/297bv53,Bergstraße 68,2180.0,2.0,73.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/297mu58,Wittenau,1720.0,3.0,82.0,Wittenau,1500 to 2000
+https://www.immowelt.de/expose/29c9u53,Mitte,1250.0,2.0,47.62,Mitte,1000 to 1500
+https://www.immowelt.de/expose/28zh75b,Metzerstr. 5,1250.0,3.0,80.0,Spandau,1000 to 1500
+https://www.immowelt.de/expose/22lzy5z,Neukölln,1960.0,3.5,106.0,Neukölln,1500 to 2000
+https://www.immowelt.de/expose/29qjb53,Kastanienallee 32,629.0,2.0,53.98,Hellersdorf,600 to 1000
+https://www.immowelt.de/expose/297u753,Karlshorst,3135.0,4.0,165.0,Karlshorst,over 3000
+https://www.immowelt.de/expose/29em753,Charlottenburg,3200.0,3.0,142.0,Charlottenburg,over 3000
+https://www.immowelt.de/expose/23avc5m,Charlottenburg,840.0,3.0,90.0,Charlottenburg,600 to 1000
+https://www.immowelt.de/expose/29lfw56,Charlottenburg,1600.0,2.0,52.4,Charlottenburg,1500 to 2000
+https://www.immowelt.de/expose/299rp52,Groß-Berliner-Damm 27,1198.0,4.0,100.19,Johannisthal,1000 to 1500
+https://www.immowelt.de/expose/29hsn52,Grunewald,1000.0,1.0,48.0,Grunewald,1000 to 1500
+https://www.immowelt.de/expose/29awk59,Köpenick,796.0,1.0,26.0,Köpenick,600 to 1000
+https://www.immowelt.de/expose/292um59,Oberschöneweide,600.0,1.0,17.6,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/297vm59,Köpenick,796.0,1.0,26.0,Köpenick,600 to 1000
+https://www.immowelt.de/expose/29xvm59,Marienfelde,898.0,1.0,30.0,Marienfelde,600 to 1000
+https://www.immowelt.de/expose/29qla53,Monbijoustraße 3/5,9850.0,8.0,375.0,Mitte,over 3000
+https://www.immowelt.de/expose/29q4a52,Alt-Reinickendorf 54,999.0,1.0,27.75,Reinickendorf,600 to 1000
+https://www.immowelt.de/expose/29vp952,Tiergarten,1782.0,2.0,81.0,Tiergarten,1500 to 2000
+https://www.immowelt.de/expose/29rg752,Pettenkoferstraße 12,2800.0,2.0,118.0,Friedrichshain,2000 to 3000
+https://www.immowelt.de/expose/29t6352,Kaiserin-Augusta-Allee 103,699.0,2.0,60.0,Moabit,600 to 1000
+https://www.immowelt.de/expose/28zhr5u,Spießweg 102,1800.0,3.5,95.0,Wittenau,1500 to 2000
+https://www.immowelt.de/expose/28nkv5z,Auerstraße 47,1700.0,3.0,66.0,Friedrichshain,1500 to 2000
+https://www.immowelt.de/expose/28bkv5z,Simon-Bolivar-Str. 5,858.94,1.5,51.28,Alt-Hohenschönhausen,600 to 1000
+https://www.immowelt.de/expose/28l7t5z,Salvador-Allende-Str. 76 L -,449.0,2.0,46.46,Köpenick,below 600
+https://www.immowelt.de/expose/28z6t5z,Küstriner Str. 26,1046.88,2.0,62.5,Alt-Hohenschönhausen,1000 to 1500
+https://www.immowelt.de/expose/28p3t5z,Salvador-Allende-Str. 76 A -,550.0,2.0,57.33,Köpenick,below 600
+https://www.immowelt.de/expose/28hys5z,Kaiserin-Augusta-Allee 102,799.0,2.0,69.0,Moabit,600 to 1000
+https://www.immowelt.de/expose/28sks5z,Kurfürstendamm 167-168,1990.0,2.0,54.0,Wilmersdorf,1500 to 2000
+https://www.immowelt.de/expose/28wgs5z,Kurfürstendamm 167-168,1500.0,1.0,37.0,Wilmersdorf,1500 to 2000
+https://www.immowelt.de/expose/282fs5z,Friedrichstraße 213,1890.0,2.0,65.0,Kreuzberg,1500 to 2000
+https://www.immowelt.de/expose/28jcs5z,Mühlenstraße 20,2050.0,2.0,55.0,Friedrichshain,2000 to 3000
+https://www.immowelt.de/expose/2879s5z,Lützowstraße 110,1600.0,2.0,43.0,Tiergarten,1500 to 2000
+https://www.immowelt.de/expose/28p5s5z,Torstraße 227,2890.0,3.0,102.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/28n2s5z,Mühlenstraße 20,1950.0,2.0,56.0,Friedrichshain,1500 to 2000
+https://www.immowelt.de/expose/29em456,Mitte,2163.0,2.0,65.37,Mitte,2000 to 3000
+https://www.immowelt.de/expose/28t5q5z,Hermsdorf,2600.0,3.0,233.0,Hermsdorf,2000 to 3000
+https://www.immowelt.de/expose/288bn5z,Wallstraße 21,2600.0,4.0,111.42,Mitte,2000 to 3000
+https://www.immowelt.de/expose/28xxh5z,Mitte,2355.0,3.0,125.88,Mitte,2000 to 3000
+https://www.immowelt.de/expose/28trf5z,Mühlenstraße 20,1200.0,1.5,40.87,Friedrichshain,1000 to 1500
+https://www.immowelt.de/expose/28ew65z,Charlottenburg,400.0,1.0,20.0,Charlottenburg,below 600
+https://www.immowelt.de/expose/28ad65z,Charlottenburg,550.0,1.0,26.0,Charlottenburg,below 600
+https://www.immowelt.de/expose/28z3u5y,Prenzlauer Promenade 49E,2000.0,3.0,87.08,Heinersdorf,2000 to 3000
+https://www.immowelt.de/expose/29pq956,Am Forstacker 27,1049.0,3.0,82.54,Spandau,1000 to 1500
+https://www.immowelt.de/expose/28swf5y,Dernburgstraße 26,3000.0,4.0,130.0,Charlottenburg,over 3000
+https://www.immowelt.de/expose/28emc5y,Nikolassee,5900.0,7.0,253.0,Nikolassee,over 3000
+https://www.immowelt.de/expose/29jev57,Otto-Suhr-Allee 116,649.0,1.0,26.22,Charlottenburg,600 to 1000
+https://www.immowelt.de/expose/28e8a5y,Prenzlauer Berg,1748.99,2.0,47.0,Prenzlauer Berg,1500 to 2000
+https://www.immowelt.de/expose/2837a5y,Schöneberg,2500.0,3.0,110.0,Schöneberg,2000 to 3000
+https://www.immowelt.de/expose/28k3a5y,Prenzlauer Berg,1349.39,1.0,36.0,Prenzlauer Berg,1000 to 1500
+https://www.immowelt.de/expose/29k8d59,Schöneberg,1150.0,3.0,91.0,Schöneberg,1000 to 1500
+https://www.immowelt.de/expose/28btq5x,Berlin-Karlshorst (Karlshorst),2560.0,4.0,106.0,Karlshorst,2000 to 3000
+https://www.immowelt.de/expose/28yvk5x,Gabriel-Max-Straße 16,1250.0,1.0,31.0,Friedrichshain,1000 to 1500
+https://www.immowelt.de/expose/29mr953,Klarastraße 5,658.58,1.0,38.74,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/29wdb54,Groß-Ziethener-Str. 86,673.8,2.5,83.34,Lichtenrade,600 to 1000
+https://www.immowelt.de/expose/28jc85x,Rummelsburger Straße 30,697.2,2.0,49.8,Friedrichsfelde,600 to 1000
+https://www.immowelt.de/expose/28mp35x,Dennewitzstr. 43,1600.0,2.0,58.55,Schöneberg,1500 to 2000
+https://www.immowelt.de/expose/28cn35x,Dennewitzstr. 41,2860.0,4.0,103.32,Schöneberg,2000 to 3000
+https://www.immowelt.de/expose/282m35x,Schöneberg,2500.0,3.0,80.21,Schöneberg,2000 to 3000
+https://www.immowelt.de/expose/28wk35x,Dennewitzstr. 43,2735.0,3.0,94.06,Schöneberg,2000 to 3000
+https://www.immowelt.de/expose/28kc35x,Dennewitzstr. 42,2010.0,2.0,71.97,Schöneberg,2000 to 3000
+https://www.immowelt.de/expose/28n835x,Dennewitzstr. 42,2500.0,2.0,86.45,Schöneberg,2000 to 3000
+https://www.immowelt.de/expose/28jwv5w,Bottroper Weg 25,799.0,2.0,55.43,Tegel,600 to 1000
+https://www.immowelt.de/expose/28pzu5w,Treskowstraße 19,3200.0,3.0,144.0,Niederschönhausen,over 3000
+https://www.immowelt.de/expose/28xgu5w,Pestalozzistraße 69,2270.0,3.0,71.0,Charlottenburg,2000 to 3000
+https://www.immowelt.de/expose/28xbu5w,Silbersteinstraße 36,1300.0,2.0,50.0,Neukölln,1000 to 1500
+https://www.immowelt.de/expose/28y7u5w,Sonnenallee 149,1100.0,2.0,51.0,Neukölln,1000 to 1500
+https://www.immowelt.de/expose/28h5u5w,Kurfürstendamm 167-168,1400.0,1.0,36.0,Wilmersdorf,1000 to 1500
+https://www.immowelt.de/expose/2884u5w,Marienbader Str. 9,1570.0,2.0,40.0,Schmargendorf,1500 to 2000
+https://www.immowelt.de/expose/28w2u5w,Karl-Marx-Straße 190,1600.0,3.0,108.0,Neukölln,1500 to 2000
+https://www.immowelt.de/expose/289ds5w,Choriner Straße 59,3550.0,3.0,119.0,Prenzlauer Berg,over 3000
+https://www.immowelt.de/expose/28rvh5w,Berlin-Wilmersdorf (Wilmersdorf),3000.0,3.0,106.0,Wilmersdorf,over 3000
+https://www.immowelt.de/expose/296vm59,Oberschöneweide,628.0,1.0,19.7,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/283y55w,Dennewitzstr. 43,2820.0,3.0,98.9,Schöneberg,2000 to 3000
+https://www.immowelt.de/expose/28rw55w,Dennewitzstr. 43,1800.0,2.0,62.11,Schöneberg,1500 to 2000
+https://www.immowelt.de/expose/28bv55w,Dennewitzstr. 43,5345.0,4.0,176.6,Schöneberg,over 3000
+https://www.immowelt.de/expose/28atv5v,An der Dahme 5,2900.0,4.0,127.02,Grünau,2000 to 3000
+https://www.immowelt.de/expose/28tqq5v,Leipziger Straße 44,1700.0,3.0,78.0,Mitte,1500 to 2000
+https://www.immowelt.de/expose/29uum59,Köpenick,796.0,1.0,32.0,Köpenick,600 to 1000
+https://www.immowelt.de/expose/295vm59,Köpenick,899.0,1.0,36.0,Köpenick,600 to 1000
+https://www.immowelt.de/expose/2864p5v,Charlottenburg,3300.0,3.5,180.0,Charlottenburg,over 3000
+https://www.immowelt.de/expose/28ace5x,Müllerstr. 86D,306.89,1.0,41.76,Wedding,below 600
+https://www.immowelt.de/expose/2ekud4r,Harry-S-Trumanallee 10,1500.0,2.0,101.77,Lichterfelde,1500 to 2000
+https://www.immowelt.de/expose/28rdm5v,Friedrichsfelde,428.0,2.0,50.4,Friedrichsfelde,below 600
+https://www.immowelt.de/expose/28lkl5v,Lützelsteiner Weg 28,669.0,1.0,38.89,Dahlem,600 to 1000
+https://www.immowelt.de/expose/29xkt58,Rudow,1250.0,3.0,100.0,Rudow,1000 to 1500
+https://www.immowelt.de/expose/295um59,Friedrichsfelde,796.0,1.0,29.7,Friedrichsfelde,600 to 1000
+https://www.immowelt.de/expose/29qum59,Köpenick,616.0,1.0,25.0,Köpenick,600 to 1000
+https://www.immowelt.de/expose/29rum59,Friedrichsfelde,897.0,1.0,33.6,Friedrichsfelde,600 to 1000
+https://www.immowelt.de/expose/29tum59,Köpenick,799.0,1.0,32.0,Köpenick,600 to 1000
+https://www.immowelt.de/expose/29lum59,Köpenick,800.0,1.0,29.0,Köpenick,600 to 1000
+https://www.immowelt.de/expose/26azq5v,Stienitzseestraße 42,489.7,1.0,26.8,Adlershof,below 600
+https://www.immowelt.de/expose/29a8z57,Karolinenhof,1365.0,4.0,91.0,Karolinenhof,1000 to 1500
+https://www.immowelt.de/expose/28cmq5u,Hedwig-Porschütz-Straße 14,1895.0,3.0,98.04,Mitte,1500 to 2000
+https://www.immowelt.de/expose/28kaq5u,Lindower Straße 3 1. 1 18,7500.0,3.0,190.0,Wedding,over 3000
+https://www.immowelt.de/expose/28z5q5u,Lindower Straße 5 2. 2 18,3500.0,2.0,73.0,Wedding,over 3000
+https://www.immowelt.de/expose/29wtv57,Oderberger Straße 20,2950.0,3.0,125.0,Prenzlauer Berg,2000 to 3000
+https://www.immowelt.de/expose/282wd5u,Charlottenburg,3750.0,3.0,100.0,Charlottenburg,over 3000
+https://www.immowelt.de/expose/28lfa5u,Charlottenburg,5150.0,4.0,262.0,Charlottenburg,over 3000
+https://www.immowelt.de/expose/28zra5u,Kopenhagener Str. 67,2400.0,4.0,86.0,Prenzlauer Berg,2000 to 3000
+https://www.immowelt.de/expose/285995u,Charlottenburg,3200.0,4.0,129.04,Charlottenburg,over 3000
+https://www.immowelt.de/expose/28ur55u,Wilmersdorfer Straße 59,1717.0,2.0,69.0,Charlottenburg,1500 to 2000
+https://www.immowelt.de/expose/28qsb5t,Greifswalder Str. 192,294.67,2.0,49.84,Prenzlauer Berg,below 600
+https://www.immowelt.de/expose/28cm25t,Rollbergstraße 1,1200.0,2.0,72.0,Neukölln,1000 to 1500
+https://www.immowelt.de/expose/28csn5s,Grünstrasse 6,2110.0,3.0,117.0,Köpenick,2000 to 3000
+https://www.immowelt.de/expose/298vm59,Oberschöneweide,546.0,1.0,12.0,Oberschöneweide,below 600
+https://www.immowelt.de/expose/29mum59,Oberschöneweide,618.0,1.0,18.0,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/2938753,Arnouxstraße 39,679.0,2.0,45.43,Französisch Buchholz,600 to 1000
+https://www.immowelt.de/expose/282tf5s,Cotheniusstraße 17,2000.0,3.0,77.0,Prenzlauer Berg,2000 to 3000
+https://www.immowelt.de/expose/28zff5s,Heisenbergstraße 7,2850.0,4.0,118.0,Charlottenburg,2000 to 3000
+https://www.immowelt.de/expose/28fcf5s,Schlesingerstraße 8,3110.0,4.0,118.0,Charlottenburg,over 3000
+https://www.immowelt.de/expose/28haf5s,Schlesingerstraße 6,2370.0,3.0,87.0,Charlottenburg,2000 to 3000
+https://www.immowelt.de/expose/2863f5s,Düppelstraße 28A,1500.0,1.0,30.0,Steglitz,1500 to 2000
+https://www.immowelt.de/expose/28uue5s,Rosenthaler Str. 44,2200.0,2.0,69.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/28xj45s,Mitte,2500.0,3.0,82.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/2864v5r,Köpenicker Str. 79,2530.0,3.0,102.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/28btu5r,Torstraße 225C,1780.0,1.0,48.0,Mitte,1500 to 2000
+https://www.immowelt.de/expose/28ylu5r,Hohenzollerndamm 72,1500.0,2.0,43.0,Schmargendorf,1500 to 2000
+https://www.immowelt.de/expose/28zju5r,Rosenthaler Str. 44,2970.0,2.0,55.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/28g2l5r,Dahlem,2350.0,4.0,143.0,Dahlem,2000 to 3000
+https://www.immowelt.de/expose/28uhk5r,Münsterschestr 11,700.0,1.0,20.0,Wilmersdorf,600 to 1000
+https://www.immowelt.de/expose/29fys54,Tempelhof,1892.44,6.0,230.0,Tempelhof,1500 to 2000
+https://www.immowelt.de/expose/2972s58,Schöneberg,2388.78,3.0,103.86,Schöneberg,2000 to 3000
+https://www.immowelt.de/expose/28j3m5q,Halensee,3500.0,5.0,140.0,Halensee,over 3000
+https://www.immowelt.de/expose/29ls753,Klarastraße 5,824.1,2.0,54.94,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/28hlh5q,Fürstenwalder Damm 294,1499.0,2.0,70.75,Friedrichshagen,1000 to 1500
+https://www.immowelt.de/expose/28lhh5q,Bellevuestraße 1,1988.0,2.0,61.0,Tiergarten,1500 to 2000
+https://www.immowelt.de/expose/29pn456,Mitte,1751.0,2.0,65.37,Mitte,1500 to 2000
+https://www.immowelt.de/expose/287ce5q,Große-Leege-Straße 52 A,929.0,2.0,69.84,Alt-Hohenschönhausen,600 to 1000
+https://www.immowelt.de/expose/29ptm59,Oberschöneweide,600.0,1.0,17.6,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/28xla5x,Schwartzkopffstraße 1A,2200.0,3.0,81.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/28arq5z,Sommerstraße 34,550.0,2.0,52.36,Reinickendorf,below 600
+https://www.immowelt.de/expose/29f5w57,Schmargendorf,1590.0,2.0,82.0,Schmargendorf,1500 to 2000
+https://www.immowelt.de/expose/28jm55p,Boxhagener Str. 114,1850.0,3.0,108.0,Friedrichshain,1500 to 2000
+https://www.immowelt.de/expose/28mj55p,Kärntener Str. 4,1720.0,2.0,58.0,Schöneberg,1500 to 2000
+https://www.immowelt.de/expose/28wd55p,Dietrich-Bonhoeffer-Straße 32,2260.0,3.0,55.0,Prenzlauer Berg,2000 to 3000
+https://www.immowelt.de/expose/28mc55p,Arcostraße 3,1830.0,2.0,56.0,Charlottenburg,1500 to 2000
+https://www.immowelt.de/expose/28sb55p,Nürnberger Str. 68,2430.0,2.0,58.0,Schöneberg,2000 to 3000
+https://www.immowelt.de/expose/28y955p,Dennewitzstraße 40,2400.0,3.0,67.0,Schöneberg,2000 to 3000
+https://www.immowelt.de/expose/29bum59,Moabit,1201.0,2.0,47.48,Moabit,1000 to 1500
+https://www.immowelt.de/expose/297um59,Marienfelde,1284.0,2.0,63.0,Marienfelde,1000 to 1500
+https://www.immowelt.de/expose/29gum59,Köpenick,798.0,1.0,33.0,Köpenick,600 to 1000
+https://www.immowelt.de/expose/28cep5n,Boxhagener Str. 114,3370.0,3.0,108.0,Friedrichshain,over 3000
+https://www.immowelt.de/expose/293bd55,Schöneberg,1345.0,3.0,124.0,Schöneberg,1000 to 1500
+https://www.immowelt.de/expose/28mnv5m,Düsseldorfer Straße 75,3090.0,6.0,204.03,Wilmersdorf,over 3000
+https://www.immowelt.de/expose/298ez57,Wilkestraße 2,896.4,2.0,37.35,Tegel,600 to 1000
+https://www.immowelt.de/expose/28bns5m,Breite Straße 42 A-B,839.0,1.0,31.0,Westend,600 to 1000
+https://www.immowelt.de/expose/28tes5m,Clayallee 336,829.0,1.0,36.0,Zehlendorf,600 to 1000
+https://www.immowelt.de/expose/29xtm59,Mitte,1644.0,2.0,47.0,Mitte,1500 to 2000
+https://www.immowelt.de/expose/28f5u5n,Kurfürstendamm 130,3130.2,3.0,104.34,Halensee,over 3000
+https://www.immowelt.de/expose/29lbm58,Spandau,1302.0,2.0,66.77,Spandau,1000 to 1500
+https://www.immowelt.de/expose/285mc5m,Treskowstrasse 21,1449.0,2.0,61.45,Heinersdorf,1000 to 1500
+https://www.immowelt.de/expose/28vlc5m,Prenzlauer Promenade 49G,1499.0,2.0,61.66,Heinersdorf,1000 to 1500
+https://www.immowelt.de/expose/28d5z5l,Hohenzollerndamm 68A,1490.0,2.0,46.0,Schmargendorf,1000 to 1500
+https://www.immowelt.de/expose/28l4z5l,Wilhelmine-Gemberg-Weg 1,2780.0,3.0,67.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/2857x5l,Frankfurter Allee 84,2676.7,3.0,102.95,Friedrichshain,2000 to 3000
+https://www.immowelt.de/expose/28ztv5l,Rollbergstraße 1,1790.0,2.0,61.0,Neukölln,1500 to 2000
+https://www.immowelt.de/expose/2822h5l,Ahrenshooper Straße 2,519.0,1.0,37.03,Neu-Hohenschönhausen,below 600
+https://www.immowelt.de/expose/284zf5l,Schivelbeiner Str. 31,2624.0,2.0,104.96,Prenzlauer Berg,2000 to 3000
+https://www.immowelt.de/expose/28e5e5l,Prenzlauer Berg,5000.0,7.0,280.0,Prenzlauer Berg,over 3000
+https://www.immowelt.de/expose/28pfb5l,Kaulsdorf,387.0,1.0,38.0,Kaulsdorf,below 600
+https://www.immowelt.de/expose/28j8a5l,Zimmerstraße 96,1650.0,2.0,66.4,Mitte,1500 to 2000
+https://www.immowelt.de/expose/28gz65l,Zimmerstraße 96a,1650.0,2.0,78.44,Mitte,1500 to 2000
+https://www.immowelt.de/expose/29vym59,Oberschöneweide,697.0,1.0,17.7,Oberschöneweide,600 to 1000
+https://www.immowelt.de/expose/289mj5v,Mitte,3950.0,4.0,188.5,Mitte,over 3000
+https://www.immowelt.de/expose/28vhr5k,Mitte,2186.0,3.0,116.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/28rel5j,Fürstenwalder Damm 294,1499.0,2.0,66.22,Friedrichshagen,1000 to 1500
+https://www.immowelt.de/expose/28ahj5j,Berlin-Köpenick (Karolinenhof),1298.0,3.0,135.0,Karolinenhof,1000 to 1500
+https://www.immowelt.de/expose/28fej5j,Mitte,2720.0,2.0,69.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/298k857,Spandau,1575.0,3.0,76.78,Spandau,1500 to 2000
+https://www.immowelt.de/expose/28m3s5p,Schichauweg 60,1400.0,4.0,116.76,Marienfelde,1000 to 1500
+https://www.immowelt.de/expose/28xc55h,Zwinglistraße 34,2030.0,3.0,79.0,Moabit,2000 to 3000
+https://www.immowelt.de/expose/28cz45h,Rosenthaler Str. 44,3160.0,2.0,66.0,Mitte,over 3000
+https://www.immowelt.de/expose/28fs45h,Jahnstraße 15A,1500.0,2.0,56.0,Kreuzberg,1500 to 2000
+https://www.immowelt.de/expose/29crm56,Wustrower Straße 15,829.0,3.0,71.2,Neu-Hohenschönhausen,600 to 1000
+https://www.immowelt.de/expose/28au35g,Kantstr. 139,1800.0,2.0,60.0,Charlottenburg,1500 to 2000
+https://www.immowelt.de/expose/29yfa53,Mitte,3500.0,4.0,139.62,Mitte,over 3000
+https://www.immowelt.de/expose/28vf95p,Linienstraße 32,3400.0,3.0,110.0,Mitte,over 3000
+https://www.immowelt.de/expose/28jcy5f,Nürnberger Str. 20,2970.0,3.0,97.0,Charlottenburg,2000 to 3000
+https://www.immowelt.de/expose/29sck53,Berlin-Köpenick (Köpenick),2040.0,3.0,120.0,Köpenick,2000 to 3000
+https://www.immowelt.de/expose/29x8k53,Berlin-Spandau (Spandau),1980.0,3.0,114.0,Spandau,1500 to 2000
+https://www.immowelt.de/expose/28htl5f,Zimmerstraße 98,2050.0,3.0,80.11,Mitte,2000 to 3000
+https://www.immowelt.de/expose/288655f,Mühlenstraße 24B,344.96,2.0,53.07,Pankow,below 600
+https://www.immowelt.de/expose/29xum59,Friedrichsfelde,1353.0,3.0,61.1,Friedrichsfelde,1000 to 1500
+https://www.immowelt.de/expose/289kw5e,Skalitzer Str. 99,3450.0,4.0,150.0,Kreuzberg,over 3000
+https://www.immowelt.de/expose/28q3w5e,Beusselstraße 65,1830.0,2.0,68.0,Moabit,1500 to 2000
+https://www.immowelt.de/expose/289au5e,Rosenthaler Str. 44,2150.0,1.0,40.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/28uts5e,Stralauer Allee 13,2750.0,3.0,85.0,Friedrichshain,2000 to 3000
+https://www.immowelt.de/expose/28qlr5e,Schlesingerstraße 8,3040.0,4.0,118.0,Charlottenburg,over 3000
+https://www.immowelt.de/expose/283cr5e,Heisenbergstraße 5,2860.0,4.0,114.0,Charlottenburg,2000 to 3000
+https://www.immowelt.de/expose/286m25e,Spichernstraße 6,1670.0,1.0,42.0,Wilmersdorf,1500 to 2000
+https://www.immowelt.de/expose/28dru5d,Kurfürstendamm 167-168,1200.0,1.0,36.0,Wilmersdorf,1000 to 1500
+https://www.immowelt.de/expose/287qu5d,Kurfürstendamm 167-168,1570.0,1.0,37.0,Wilmersdorf,1500 to 2000
+https://www.immowelt.de/expose/28vnu5d,Kurfürstendamm 167-168,1500.0,1.0,37.0,Wilmersdorf,1500 to 2000
+https://www.immowelt.de/expose/28ffs5d,Gartenstr. 6,1499.71,2.0,41.95,Zehlendorf,1000 to 1500
+https://www.immowelt.de/expose/283lr5w,Mahlsdorf (Mahlsdorf),2350.0,3.0,111.0,Mahlsdorf,2000 to 3000
+https://www.immowelt.de/expose/29eyp53,Utrechter Straße 34,758.29,2.0,73.57,Wedding,600 to 1000
+https://www.immowelt.de/expose/28awm5b,Heisenbergstraße 5,2850.0,4.0,113.0,Charlottenburg,2000 to 3000
+https://www.immowelt.de/expose/28dum5b,Heisenbergstraße 9,2880.0,4.0,115.0,Charlottenburg,2000 to 3000
+https://www.immowelt.de/expose/28uqm5b,Heisenbergstraße 9,2800.0,4.0,116.0,Charlottenburg,2000 to 3000
+https://www.immowelt.de/expose/28jlg5b,Schmöckwitz,1860.0,3.0,124.14,Schmöckwitz,1500 to 2000
+https://www.immowelt.de/expose/28ptj5f,Hermsdorf,2600.0,3.0,233.0,Hermsdorf,2000 to 3000
+https://www.immowelt.de/expose/283sn5a,Zimmerstraße 94,3600.0,4.0,141.26,Mitte,over 3000
+https://www.immowelt.de/expose/28lqj5a,Flottwellstraße 23,2181.39,4.0,114.81,Tiergarten,2000 to 3000
+https://www.immowelt.de/expose/285rw59,Jägerstraße 34,17000.0,7.0,706.0,Mitte,over 3000
+https://www.immowelt.de/expose/2838q5u,Lindower Straße 5 5. 1 18,5000.0,2.0,122.0,Wedding,over 3000
+https://www.immowelt.de/expose/29luw56,Mühlenstraße 20,1600.0,2.0,56.0,Friedrichshain,1500 to 2000
+https://www.immowelt.de/expose/29r3x56,Rungestraße 3-6,2990.0,2.0,128.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/29epu58,Waidmannslust,1240.0,2.0,71.52,Waidmannslust,1000 to 1500
+https://www.immowelt.de/expose/286s558,Auerstraße 47,1950.0,2.0,47.0,Friedrichshain,1500 to 2000
+https://www.immowelt.de/expose/28sn558,Rosenthaler Str. 44,2800.0,2.0,62.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/29t3u53,Busonistraße 143,749.0,2.0,59.8,Karow,600 to 1000
+https://www.immowelt.de/expose/286jv56,Nantesstraße 77,1249.0,4.0,85.1,Französisch Buchholz,1000 to 1500
+https://www.immowelt.de/expose/28ylf56,Mitte,2720.0,2.0,68.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/28lwy5e,Hohenzollerndamm 57,1736.5,3.0,69.45,Schmargendorf,1500 to 2000
+https://www.immowelt.de/expose/29an456,Mitte,2060.0,2.0,65.37,Mitte,2000 to 3000
+https://www.immowelt.de/expose/29zl456,Mitte,2266.0,2.0,65.37,Mitte,2000 to 3000
+https://www.immowelt.de/expose/28msk55,Charlottenburg,2500.0,2.5,76.0,Charlottenburg,2000 to 3000
+https://www.immowelt.de/expose/28fbx54,Zimmerstraße 97A,4200.0,5.0,206.76,Mitte,over 3000
+https://www.immowelt.de/expose/287jh5l,Oberwallstraße 13,15000.0,4.0,456.0,Mitte,over 3000
+https://www.immowelt.de/expose/286at53,Kantstraße 126,11500.0,5.0,272.0,Charlottenburg,over 3000
+https://www.immowelt.de/expose/284k553,Schmargendorf,8500.0,4.0,188.01,Schmargendorf,over 3000
+https://www.immowelt.de/expose/28z2y52,Ruppiner Chaussee 289,1749.0,2.0,85.02,Heiligensee,1500 to 2000
+https://www.immowelt.de/expose/28t2y52,Ratiborstr. 3,3850.0,4.0,164.43,Kreuzberg,over 3000
+https://www.immowelt.de/expose/28scw52,Winsstraße 26,1770.0,2.0,57.0,Prenzlauer Berg,1500 to 2000
+https://www.immowelt.de/expose/2792h5z,Georgstr. 11,1100.0,1.0,73.0,Kaulsdorf,1000 to 1500
+https://www.immowelt.de/expose/27p785y,Lankwitz,2250.0,3.0,115.55,Lankwitz,2000 to 3000
+https://www.immowelt.de/expose/256ar5g,Am Köllnischen Park 17,2286.0,2.0,65.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/274bm5v,Eylauer 13,2550.0,3.0,75.0,Kreuzberg,2000 to 3000
+https://www.immowelt.de/expose/268ya5j,Skalitzer Str. 74 A,2270.0,2.0,77.0,Kreuzberg,2000 to 3000
+https://www.immowelt.de/expose/276fh5x,Schmargendorf,10500.0,6.0,248.0,Schmargendorf,over 3000
+https://www.immowelt.de/expose/28pm853,Schmargendorf,8500.0,4.0,197.0,Schmargendorf,over 3000
+https://www.immowelt.de/expose/27p6h56,Genthiner Strasse 49,3550.0,4.0,111.0,Tiergarten,over 3000
+https://www.immowelt.de/expose/25k6v5z,Mühlenstraße 20,2100.0,2.0,54.0,Friedrichshain,2000 to 3000
+https://www.immowelt.de/expose/28xw35p,Alt-Friedrichsfelde 73,719.0,2.0,53.57,Friedrichsfelde,600 to 1000
+https://www.immowelt.de/expose/25kdt5z,Mitte,2300.0,2.0,53.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/27ehp5j,Friedrichstraße 121,3100.0,2.0,138.0,Mitte,over 3000
+https://www.immowelt.de/expose/276fs5q,Lützowstr. 111,1700.0,2.0,35.0,Tiergarten,1500 to 2000
+https://www.immowelt.de/expose/28awy5c,Spandau,1228.0,2.0,64.61,Spandau,1000 to 1500
+https://www.immowelt.de/expose/28cd85q,Stargarder Strasse 73,3050.0,3.0,81.0,Prenzlauer Berg,over 3000
+https://www.immowelt.de/expose/26r9w5q,Kommandantenstr. 75,3143.0,3.0,86.0,Mitte,over 3000
+https://www.immowelt.de/expose/28a6q5d,Beusselstraße 65,1830.0,2.0,69.0,Moabit,1500 to 2000
+https://www.immowelt.de/expose/28wcr5n,Beusselstraße 65,1800.0,2.0,76.0,Moabit,1500 to 2000
+https://www.immowelt.de/expose/287ag57,Eylauerstraße 13,1870.0,2.0,63.0,Kreuzberg,1500 to 2000
+https://www.immowelt.de/expose/289z252,Erich-Weinert-Straße 16,2050.0,2.0,50.0,Prenzlauer Berg,2000 to 3000
+https://www.immowelt.de/expose/27cwb5y,Pettenkoferstraße 4,3390.0,3.0,106.0,Friedrichshain,over 3000
+https://www.immowelt.de/expose/287ag57,Eylauerstraße 13,1870.0,2.0,63.0,Kreuzberg,1500 to 2000
+https://www.immowelt.de/expose/28dc85q,Manfred-von-Richthofen-Str. 28,2170.0,2.0,64.0,Tempelhof,2000 to 3000
+https://www.immowelt.de/expose/28r9a5u,Templinerstr 15,2000.0,2.0,56.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/28q7k55,Mühlenstraße 20,1800.0,2.0,60.0,Friedrichshain,1500 to 2000
+https://www.immowelt.de/expose/25uhw5s,Am Köllnischen Park 11,2360.0,2.0,54.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/27akq5u,Wilhelmsaue 32,2350.0,2.0,85.0,Wilmersdorf,2000 to 3000
+https://www.immowelt.de/expose/27bt95z,Goebenstraße 14,2070.0,3.0,60.0,Schöneberg,2000 to 3000
+https://www.immowelt.de/expose/28qd45e,Eylauerstraße 13,1650.0,2.0,51.0,Kreuzberg,1500 to 2000
+https://www.immowelt.de/expose/284d75p,Stargarder Straße 73,1700.0,1.0,42.0,Prenzlauer Berg,1500 to 2000
+https://www.immowelt.de/expose/28j3j5r,Stralauer Allee 17,3072.0,3.0,108.0,Friedrichshain,over 3000
+https://www.immowelt.de/expose/2778f5x,Cora-Berliner-Str. 1,2750.0,2.0,66.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/27dbe5w,Cora-Berliner-Str. 1,3350.0,2.0,70.0,Mitte,over 3000
+https://www.immowelt.de/expose/273gf5x,Cora-Berliner-Str. 1,2850.0,2.0,76.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/27zbf5x,Cora-Berliner-Str. 1,2750.0,2.0,66.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/27fhf5x,Cora-Berliner-Str. 1,2850.0,2.0,76.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/27r6d5x,Cora-Berliner-Str. 1,2650.0,2.0,62.0,Mitte,2000 to 3000
+https://www.immowelt.de/expose/27y9e5x,Cora-Berliner-Str. 1,4400.0,2.0,83.0,Mitte,over 3000
+https://www.immowelt.de/expose/275lb5x,Cora-Berliner-Str. 1,3350.0,2.0,70.0,Mitte,over 3000
+https://www.immowelt.de/expose/27mfd5x,Cora-Berliner-Str. 1,4400.0,2.0,83.0,Mitte,over 3000
+https://www.immowelt.de/expose/27zye5x,Cora-Berliner-Str. 1,3150.0,2.0,60.0,Mitte,over 3000
+https://www.immowelt.de/expose/27pne5x,Cora-Berliner-Str. 1,3500.0,2.0,68.63,Mitte,over 3000
+https://www.immowelt.de/expose/2793f5x,Cora-Berliner-Str. 1,3150.0,2.0,60.0,Mitte,over 3000
+https://www.immowelt.de/expose/26t645m,Lützowstr. 111,1700.0,2.0,35.0,Tiergarten,1500 to 2000
+https://www.immowelt.de/expose/25qnq53,Am Köllnischen Park 17,1900.0,2.0,55.0,Mitte,1500 to 2000
+https://www.immowelt.de/expose/27n2n5v,Tiergarten,1400.0,2.0,35.0,Tiergarten,1000 to 1500
+https://www.immowelt.de/expose/27dk75n,Kurfürstendamm 110,2000.0,2.0,56.0,Halensee,2000 to 3000
+https://www.immowelt.de/expose/26b465g,Lützowstrasse 111b,2260.0,2.0,68.0,Tiergarten,2000 to 3000
+https://www.immowelt.de/expose/275jz5q,Eylauerstraße 13,3595.0,4.0,117.0,Kreuzberg,over 3000
+https://www.immowelt.de/expose/26mar5y,Kurfürstenstrasse 136,2072.0,2.0,74.0,Schöneberg,2000 to 3000
+https://www.immowelt.de/expose/27whn5u,Lion-Feuchtwanger Straße 61,2299.0,4.0,106.88,Kaulsdorf,2000 to 3000
+https://www.immowelt.de/expose/27jpk5u,Finsterwalder Straße 11,248.71,1.0,41.67,Märkisches Viertel,below 600
+https://www.immowelt.de/expose/27my45u,Schmargendorf,11500.0,6.0,248.2,Schmargendorf,over 3000
+https://www.immowelt.de/expose/27d5j5t,Köpenicker Str. 79,1200.0,1.0,36.0,Mitte,1000 to 1500
+https://www.immowelt.de/expose/27p8p5s,Münchehagenstraße 42,1099.0,4.0,86.4,Karow,1000 to 1500
+https://www.immowelt.de/expose/27tac5r,Ibsenstraße 16,2160.0,3.0,72.0,Prenzlauer Berg,2000 to 3000
+https://www.immowelt.de/expose/2799c5r,Beusselstraße 65,1950.0,2.0,74.0,Moabit,1500 to 2000
+https://www.immowelt.de/expose/27bzb5r,Zwinglistraße 34,1920.0,2.0,82.0,Moabit,1500 to 2000
+https://www.immowelt.de/expose/27f8b5r,Kurfürstendamm 167-168,1540.0,1.0,36.0,Wilmersdorf,1500 to 2000
