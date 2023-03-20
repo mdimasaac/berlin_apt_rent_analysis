@@ -81,6 +81,8 @@ def prediction():
 
     X,y = xy_split()
     X_train_processed, X_test_processed, y_train, y_test = preprocessing(X,y)
+    X_train_processed.columns = X_train_processed.columns.astype(str)
+    X_test_processed.columns = X_test_processed.columns.astype(str)
     st.write('''<div style="text-align: center; color: yellow;"><h5>Predicting Rent Costs
      Using Different Machine Learning Models.</h5></div>''', unsafe_allow_html=True)
     st.write(" ")
@@ -444,8 +446,7 @@ def prediction():
                         min_samples_leaf = minleaf_right, max_depth = depth_right, 
                         max_features = feat_right, criterion = crit_right)
     st.write("_________")
-    X_train_processed.columns = X_train_processed.columns.astype(str)
-    X_test_processed.columns = X_test_processed.columns.astype(str)
+    
 
     col01,col02 = st.columns(2)
     with col01:
