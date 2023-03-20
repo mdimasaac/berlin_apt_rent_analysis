@@ -222,7 +222,8 @@ def prediction():
                 lcrit_left = ['squared_error','absolute_error']
                 gird_left = {"min_samples_split":lminsplit_left,"min_samples_leaf":lminleaf_left,
                             "max_depth":ldepth_left,"max_features":lfeat_left,"criterion":lcrit_left}
-                grid_search_left = GridSearchCV(estimator = model_left, param_grid = grid_left, cv = 5)
+                with st.spinner("Running Algorithm.."):
+                    grid_search_left = GridSearchCV(estimator = model_left, param_grid = grid_left, cv = 5)
                 grid_search_left.fit(X_test_processed, y_test)
                 minsplit_left = grid_search_left.best_params_["min_samples_split"]
                 minleaf_left = grid_search_left.best_params_["min_samples_leaf"]
@@ -255,7 +256,8 @@ def prediction():
                 lcrit_left = ['squared_error','absolute_error']
                 grid_left = {"min_samples_split":lminsplit_left,"min_samples_leaf":lminleaf_left,
                             "max_depth":ldepth_left,"max_features":lfeat_left,"criterion":lcrit_left}
-                grid_search_left = GridSearchCV(estimator = model_left, param_grid = grid_left, cv = 5)
+                with st.spinner("Running Algorithm.."):
+                    grid_search_left = GridSearchCV(estimator = model_left, param_grid = grid_left, cv = 5)
                 grid_search_left.fit(X_test_processed, y_test)
                 minsplit_left = grid_search_left.best_params_["min_samples_split"]
                 minleaf_left = grid_search_left.best_params_["min_samples_leaf"]
@@ -396,7 +398,8 @@ def prediction():
                 lcrit_right = ['squared_error','absolute_error']
                 grid_right = {"min_samples_split":lminsplit_right,"min_samples_leaf":lminleaf_right,
                             "max_depth":ldepth_right,"max_features":lfeat_right,"criterion":lcrit_right}
-                grid_search_right = GridSearchCV(estimator = model_right, param_grid = grid_right, cv = 5)
+                with st.spinner("Running Algorithm.."):
+                    grid_search_right = GridSearchCV(estimator = model_right, param_grid = grid_right, cv = 5)
                 grid_search_right.fit(X_test_processed, y_test)
                 minsplit_right = grid_search_right.best_params_["min_samples_split"]
                 minleaf_right = grid_search_right.best_params_["min_samples_leaf"]
@@ -429,7 +432,8 @@ def prediction():
                 lcrit_right = ['squared_error','absolute_error']
                 grid_right = {"min_samples_split":lminsplit_right,"min_samples_leaf":lminleaf_right,
                             "max_depth":ldepth_right,"max_features":lfeat_right,"criterion":lcrit_right}
-                grid_search_right = GridSearchCV(estimator = model_right, param_grid = grid_right, cv = 5)
+                with st.spinner("Running Algorithm.."):
+                    grid_search_right = GridSearchCV(estimator = model_right, param_grid = grid_right, cv = 5)
                 grid_search_right.fit(X_test_processed, y_test)
                 minsplit_right = grid_search_right.best_params_["min_samples_split"]
                 minleaf_right = grid_search_right.best_params_["min_samples_leaf"]
@@ -440,10 +444,12 @@ def prediction():
                         min_samples_leaf = minleaf_right, max_depth = depth_right, 
                         max_features = feat_right, criterion = crit_right)
     st.write("_________")
+    X_train_processed.columns = X_train_processed.columns.astype(str)
     col01,col02 = st.columns(2)
     with col01:
         with st.spinner('Building Machine Learning Model...'):
             st.write('<div style="text-align: center; color: yellow;"><h3>'+ml_left+'</h3></div>', unsafe_allow_html=True)
+            
             regr_left.fit(X_train_processed, y_train)
             pred_test_left = regr_left.predict(X_test_processed)
             mean_score_train = np.mean(cross_val_score(regr_left, X_train_processed, y_train, cv = 5))
