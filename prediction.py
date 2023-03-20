@@ -253,7 +253,7 @@ def prediction():
                 ldepth_left = [3,4,5,6,7,None]
                 lfeat_left = [2,3,4,None]
                 lcrit_left = ['squared_error','absolute_error']
-                gird_left = {"min_samples_split":lminsplit_left,"min_samples_leaf":lminleaf_left,
+                grid_left = {"min_samples_split":lminsplit_left,"min_samples_leaf":lminleaf_left,
                             "max_depth":ldepth_left,"max_features":lfeat_left,"criterion":lcrit_left}
                 grid_search_left = GridSearchCV(estimator = model_left, param_grid = grid_left, cv = 5)
                 grid_search_left.fit(X_test_processed, y_test)
