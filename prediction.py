@@ -217,10 +217,10 @@ def prediction():
             st.subheader("Or Optimize Parameter")
             opt_left = st.checkbox("Optimize", key = "opt4_left")
             if opt_left:
-                lminsplit_left = list(range(2,11))
-                lminleaf_left = list(range(2,11))
-                ldepth_left = [3,4,5,6,7,None]
-                lfeat_left = [2,3,4,None]
+                lminsplit_left = list(range(4,8))
+                lminleaf_left = list(range(4,8))
+                ldepth_left = [6,7,None]
+                lfeat_left = [3,4,None]
                 lcrit_left = ['squared_error','absolute_error']
                 gird_left = {"min_samples_split":lminsplit_left,"min_samples_leaf":lminleaf_left,
                             "max_depth":ldepth_left,"max_features":lfeat_left,"criterion":lcrit_left}
@@ -251,10 +251,10 @@ def prediction():
             st.subheader("Or Optimize Parameter")
             opt_left = st.checkbox("Optimize", key = "opt5_left")
             if opt_left:
-                lminsplit_left = list(range(2,11))
-                lminleaf_left = list(range(2,11))
-                ldepth_left = [3,4,5,6,7,None]
-                lfeat_left = [2,3,4,None]
+                lminsplit_left = list(range(4,8))
+                lminleaf_left = list(range(4,8))
+                ldepth_left = [6,7,None]
+                lfeat_left = [3,4,None]
                 lcrit_left = ['squared_error','absolute_error']
                 grid_left = {"min_samples_split":lminsplit_left,"min_samples_leaf":lminleaf_left,
                             "max_depth":ldepth_left,"max_features":lfeat_left,"criterion":lcrit_left}
@@ -393,10 +393,10 @@ def prediction():
             st.subheader("Or Optimize Parameter")
             opt_right = st.checkbox("Optimize", key = "opt4_right")
             if opt_right:
-                lminsplit_right = list(range(2,11))
-                lminleaf_right = list(range(2,11))
-                ldepth_right = [3,4,5,6,7,None]
-                lfeat_right = [2,3,4,None]
+                lminsplit_right = list(range(4,8))
+                lminleaf_right = list(range(4,8))
+                ldepth_right = [6,7,None]
+                lfeat_right = [3,4,None]
                 lcrit_right = ['squared_error','absolute_error']
                 grid_right = {"min_samples_split":lminsplit_right,"min_samples_leaf":lminleaf_right,
                             "max_depth":ldepth_right,"max_features":lfeat_right,"criterion":lcrit_right}
@@ -427,10 +427,10 @@ def prediction():
             st.subheader("Or Optimize Parameter")
             opt_right = st.checkbox("Optimize", key = "opt5_right")
             if opt_right:
-                lminsplit_right = list(range(2,11))
-                lminleaf_right = list(range(2,11))
-                ldepth_right = [3,4,5,6,7,None]
-                lfeat_right = [2,3,4,None]
+                lminsplit_right = list(range(4,8))
+                lminleaf_right = list(range(4,8))
+                ldepth_right = [6,7,None]
+                lfeat_right = [3,4,None]
                 lcrit_right = ['squared_error','absolute_error']
                 grid_right = {"min_samples_split":lminsplit_right,"min_samples_leaf":lminleaf_right,
                             "max_depth":ldepth_right,"max_features":lfeat_right,"criterion":lcrit_right}
