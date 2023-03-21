@@ -93,7 +93,6 @@ def prediction():
     trace1 = go.Scatter(x=x,y=y1, mode = "lines", name = "actual price")
     col1, col2 = st.columns(2)
     with col1:
-        # ml = st.radio("Choose Machine Learning Model:",("Linear Regression","MLP","K-Neighbors","Decision Tree","Random Forest"))
         st.markdown("""
             <style>
                 .radio > label[for="radio"] {
@@ -181,7 +180,7 @@ def prediction():
                 rate_left = grid_search_left.best_params_["learning_rate"]
             regr_left = MLPRegressor(hidden_layer_sizes = hlsize_left, max_iter = maxiter_left,
                                     solver = solver_left, learning_rate = rate_left)
-        
+    
         elif ml_left == "K-Neighbors":
             model_left = KNeighborsRegressor()
             st.subheader("Play Around with the Parameters!")
@@ -222,7 +221,7 @@ def prediction():
                 ldepth_left = [6,7,None]
                 lfeat_left = [3,4,None]
                 lcrit_left = ['squared_error','absolute_error']
-                gird_left = {"min_samples_split":lminsplit_left,"min_samples_leaf":lminleaf_left,
+                grid_left = {"min_samples_split":lminsplit_left,"min_samples_leaf":lminleaf_left,
                             "max_depth":ldepth_left,"max_features":lfeat_left,"criterion":lcrit_left}
                 with st.spinner("Running Algorithm.."):
                     grid_search_left = GridSearchCV(estimator = model_left, param_grid = grid_left, cv = 5)
@@ -271,7 +270,6 @@ def prediction():
                         max_features = feat_left, criterion = crit_left)
 
     with col2:
-        # ml = st.radio("Choose Machine Learning Model:",("Linear Regression","MLP","K-Neighbors","Decision Tree","Random Forest"))
         st.markdown("""
             <style>
                 .radio > label[for="radio"] {
@@ -446,13 +444,11 @@ def prediction():
                         min_samples_leaf = minleaf_right, max_depth = depth_right, 
                         max_features = feat_right, criterion = crit_right)
     st.write("_________")
-    
 
     col01,col02 = st.columns(2)
     with col01:
         with st.spinner('Building Machine Learning Model...'):
             st.write('<div style="text-align: center; color: yellow;"><h3>'+ml_left+'</h3></div>', unsafe_allow_html=True)
-            
             regr_left.fit(X_train_processed, y_train)
             pred_test_left = regr_left.predict(X_test_processed)
             mean_score_train = np.mean(cross_val_score(regr_left, X_train_processed, y_train, cv = 5))
@@ -473,7 +469,6 @@ def prediction():
             ))
             st.plotly_chart(fig_left)
             mean_score_test_left = np.mean(cross_val_score(regr_left, X_test_processed, y_test, cv = 5))
-            # st.write("Prediction Score:", mean_score_test_left)
             st.write('<div style="text-align: left; color: yellow;"><h4>Prediction Score: '+str(round(mean_score_test_left,3))+'</h4></div>', unsafe_allow_html=True)
 
     with col02:
@@ -499,10 +494,4 @@ def prediction():
             ))
             st.plotly_chart(fig_right)
             mean_score_test_right = np.mean(cross_val_score(regr_right, X_test_processed, y_test, cv = 5))
-            # st.write("Prediction Score:", mean_score_test_right)
             st.write('<div style="text-align: left; color: yellow;"><h4>Prediction Score: '+str(round(mean_score_test_right,3))+'</h4></div>', unsafe_allow_html=True)
-
-        
-
-
-        
