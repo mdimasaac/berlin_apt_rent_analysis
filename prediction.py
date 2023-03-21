@@ -166,8 +166,8 @@ def prediction():
             st.subheader("Or Optimize Parameter")
             opt_left = st.checkbox("Optimize", key = "opt2_left")
             if opt_left:
-                lhlsize_left = list(range(50,301,50))
-                lmaxiter_left = list(range(200,701,100))
+                lhlsize_left = list(range(200,301,50))
+                lmaxiter_left = list(range(500,701,100))
                 lsolver_left = ["lbfgs","sgd","adam"]
                 lrate_left = ["constant","invscaling","adaptive"]
                 grid_left = {"hidden_layer_sizes":lhlsize_left, "max_iter":lmaxiter_left,
@@ -341,8 +341,8 @@ def prediction():
             st.subheader("Or Optimize Parameter")
             opt_right = st.checkbox("Optimize", key = "opt2_right")
             if opt_right:
-                lhlsize_right = list(range(50,301,50))
-                lmaxiter_right = list(range(200,701,100))
+                lhlsize_right = list(range(200,301,50))
+                lmaxiter_right = list(range(500,701,100))
                 lsolver_right = ["lbfgs","sgd","adam"]
                 lrate_right = ["constant","invscaling","adaptive"]
                 grid_right = {"hidden_layer_sizes":lhlsize_right, "max_iter":lmaxiter_right,
