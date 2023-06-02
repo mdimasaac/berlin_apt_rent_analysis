@@ -1,0 +1,17 @@
+Creating Tableau-ish Dashboard on Streamlit
+https://lnkd.in/d4gh23Kb
+
+When we think about Dashboard, it usually comes to Power BI or Tableau. But Streamlit, a Python library, can also be used to display data in texts, charts and/or tables as interactive as Tableau. It has various functions that enables us to build and format our dashboard in form of a web app, and all that done using python codes. In this example, I made an analysis of apartment rents available in Berlin, as seen in https://www.immowelt.de. It consists of a full-round of data analytics tasks, including:
+
+1. web scraping using beautifulsoup to get rent costs, number of rooms, addresses, and apartment features (balcony, shower, bathtub, parking space, garden, type of floor, etc.)
+2. data cleaning and EDA in python using pandas
+3. building machine learning model(s) to do supervised learning to predict rents based on the apartment features mentioned above
+4. displaying bar charts, line charts, choropleth map using plotly
+5. setting up the dashboard in streamlit, along with the tableau-ish filters to select specific rows and/or features of the dataset, and display the data on real-time updated charts, that keeps changing upon changes on the filters
+
+Here's the github link:
+https://lnkd.in/dMFD-wxw
+
+Or you can click the first link to try the streamlit app. No installations required.
+
+Try to get the highest prediction score on the "prediction" section. You can optimize the Parameters, but it might take hours. Have fun with the web app 😉

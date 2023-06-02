@@ -67,7 +67,7 @@ def dashboard():
             st.write('<div style="text-align: center;"><h6>with '+str(most_available_total)+' apartments</h6></div>', unsafe_allow_html=True)
 
         with col4:
-            st.write('<div style="text-align: center;"><h5>Apartments for<br>Disabled People:</h5></div>', unsafe_allow_html=True)
+            st.write('<div style="text-align: center;"><h5>Apartments for People with<br>Health Conditions:</h5></div>', unsafe_allow_html=True)
             st.write('<div style="text-align: center;"><h1>'+str(barrier_free_apartments)+'</h1></div>', unsafe_allow_html=True)
             st.write('<div style="text-align: center;"><h6>Apartments</h6></div>', unsafe_allow_html=True)
         
